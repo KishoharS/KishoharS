@@ -67,7 +67,7 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Data Science*
 ### 🛡️ Peacemaker — Cyberbullying Detection System
 > *NLP · Computer Vision · Multimodal AI · PyTorch · BERT*
 
-A multimodal ML system that analyzes **Text, Audio, and Image** inputs from cross-platform social media (Instagram, Twitter, Telegram) to detect cyberbullying behavior in real-time.
+A multimodal ML system that analyzes **Text, Audio, and Image** inputs from cross-platform social media (Instagram, Telegram) to detect cyberbullying behavior in real-time.
 - Built a high-performing text analysis pipeline using **BERT transformers**
 - Integrated multi-model inputs into a **unified detection framework**
 - Collaborated in a team of 3 to architect the end-to-end pipeline
@@ -92,10 +92,6 @@ End-to-end data analysis pipeline on **300,000+ ride records** for the Google Da
 - Delivered data-backed marketing recommendations to drive membership conversion
 
 ---
-
-<div align="center">
-
-*"Data is not just numbers — it's the language of decisions."*
 
 </div>
 
