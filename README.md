@@ -9,7 +9,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishohar/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishohar746@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KishoharS)
 
 </div>
 
@@ -94,36 +93,9 @@ End-to-end data analysis pipeline on **300,000+ ride records** for the Google Da
 
 ---
 
-## 🏅 Certifications
-
-| Certification | Issuer |
-|--------------|--------|
-| 🏆 Google Data Analytics Professional Certificate | Google |
-| 📊 Data Analytics Essentials | Cisco |
-| ☁️ Cloud Computing | AWS Academy |
-| 💼 Data Analytics Job Simulation | Quantium |
-| 🏦 Introduction to Data Science Job Simulation | Commonwealth Bank |
-| 🤖 AI-ML Virtual Internship | Eduskills |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Kishohar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KishoharS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KishoharS&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *"Data is not just numbers — it's the language of decisions."*
-
-![Profile views](https://komarev.com/ghpvc/?username=KishoharS&color=blue&style=flat-square)
 
 </div>
 
