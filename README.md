@@ -38,17 +38,6 @@ Analyzed 300K+ ride records to surface behavioral insights for marketing strateg
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=KishoharS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=false)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KishoharS&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=KishoharS&color=blue&style=flat-square" />
 </div>
