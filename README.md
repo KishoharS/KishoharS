@@ -29,7 +29,7 @@
 **🛡️ Peacemaker — Cyberbullying Detection** · `PyTorch · BERT · Multimodal AI`
 Detects cyberbullying across Instagram, Twitter & Telegram using text, audio, and image inputs.
 
-**⚽ Football Player Valuation Engine** · `XGBoost · Scikit-learn · Streamlit`
+**⚽ Football Player Valuation Engine** · `CatBoost · Scikit-learn · Streamlit`
 Predicts player market value (R² ~0.62) from 100K+ data points. Live Streamlit app.
 
 **🚲 Google Capstone — Bike Share Analysis** · `R · BigQuery`
