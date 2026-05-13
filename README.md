@@ -1,7 +1,7 @@
 <div align="center">
 
 # Kishohar S
-**AI & Data Science Undergrad · Google Certified Data Analyst**
+**AI & Data Science Undergrad · A Builder**
 
 *I build ML systems that actually ship — multimodal AI, NLP, and data pipelines.*
 
