@@ -20,15 +20,15 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
-**⚽ FootballIQ - RAG pipeline for Football player profiles** 
+** FootballIQ - RAG pipeline for Football player profiles** . `LangGraph ReAct · LangChain · ChromaDB · GroqLLM`
 End-to-end RAG system over EA FC 26 Player profiles using LangChain, LangGraph, ChromaDB, GroqLLM.
 
-**🛡️ Peacemaker — Cyberbullying Detection** · `PyTorch · BERT · Multimodal AI`
+** Peacemaker — Cyberbullying Detection** · `PyTorch · BERT · Multimodal AI`
 Detects cyberbullying across Instagram & Telegram using text, audio, and image inputs.
 
-**⚽ Football Player Valuation Engine** · `CatBoost · Scikit-learn · Streamlit`
+** Football Player Valuation Engine** · `CatBoost · Scikit-learn · Streamlit`
 Predicts player market value (R² ~0.62) from 100K+ data points. Live Streamlit app.
 
 
