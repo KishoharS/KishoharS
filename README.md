@@ -28,9 +28,6 @@ End-to-end RAG system over EA FC 26 Player profiles using LangChain, LangGraph, 
 ** Peacemaker — Cyberbullying Detection** · `PyTorch · BERT · Multimodal AI`
 Detects cyberbullying across Instagram & Telegram using text, audio, and image inputs.
 
-** Football Player Valuation Engine** · `CatBoost · Scikit-learn · Streamlit`
-Predicts player market value (R² ~0.62) from 100K+ data points. Live Streamlit app.
-
 
 ---
 
