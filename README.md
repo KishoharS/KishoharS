@@ -19,7 +19,3 @@ Detects cyberbullying across Instagram & Telegram using text, audio, and image i
 
 
 ---
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=KishoharS&color=blue&style=flat-square" />
-</div>
