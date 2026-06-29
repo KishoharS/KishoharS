@@ -3,7 +3,7 @@
 # Kishohar S
 **A Builder . AI Undergrad**
 
-*I build ML systems that actually ship — multimodal AI, NLP, and data pipelines.*
+*I build AI systems that actually ship — multimodal AI, NLP, and data pipelines.*
 
 </div>
 
@@ -11,11 +11,10 @@
 
 ## Projects
 
-** FootballIQ - RAG pipeline for Football player profiles** . `LangGraph ReAct · LangChain · ChromaDB · GroqLLM`
-End-to-end RAG system over EA FC 26 Player profiles using LangChain, LangGraph, ChromaDB, GroqLLM.
+FootballIQ - RAG pipeline for Football player profiles** . `LangGraph ReAct · LangChain · ChromaDB · GroqLLM`
+End-to-end RAG pipeline over EA FC 26 Player records using LangChain, LangGraph, ChromaDB, GroqLLM.
 
-** Peacemaker — Cyberbullying Detection** · `PyTorch · BERT · Multimodal AI`
-Detects cyberbullying across Instagram & Telegram using text, audio, and image inputs.
-
+Peacemaker — Multimodal System · `· BERT · Multimodal AI · Whisper · CLIP`
+A multimodal ML system crawls under inputted Instagram and Telegram accounts
 
 ---
