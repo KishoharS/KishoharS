@@ -1,20 +1,20 @@
 <div align="center">
 
 # Kishohar S
-**A Builder . AI Undergrad**
 
-*I build AI systems that actually ship — multimodal AI, NLP, and data pipelines.*
-
-</div>
+AI Engineer — building ai systems.
 
 ---
 
-## Projects
+**FootballIQ** — Agentic RAG system over 16k+ EA FC player records.
+ReAct agent with multi-step reasoning and tool-calling via LangGraph + LangChain + ChromaDB + FastAPI. Deployed.
 
-FootballIQ - RAG pipeline for Football player profiles `LangGraph ReAct · LangChain · ChromaDB · GroqLLM`
-End-to-end RAG pipeline over EA FC 26 Player records using LangChain, LangGraph, ChromaDB, GroqLLM.
+**Peacemaker** — Multimodal cyberbullying detection pipeline.
+Late-fusion architecture across text (DistilBERT), image (ViT + CLIP), and audio (Whisper). Deployed on Render.
 
-Peacemaker — Multimodal System `· BERT · Multimodal AI · Whisper · CLIP`
-A multimodal ML system crawls under inputted Instagram and Telegram accounts
+**TransferIQ** — Football player market value predictor.
+CatBoost model with feature engineering on transfer market data. Streamlit frontend.
 
 ---
+
+Python · LangChain · LangGraph · FastAPI · ChromaDB · DistilBERT · Whisper · HuggingFace
