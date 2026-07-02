@@ -2,7 +2,7 @@
 
 # Kishohar S
 
-AI Engineer — building ai systems.
+engineering — building ai systems.
 
 ---
 
