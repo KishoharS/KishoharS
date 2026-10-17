@@ -2,19 +2,26 @@
 
 # Kishohar S
 
-engineering — building ai systems.
+`AI Engineer` · `Open Source` · `Building`
+
+I build AI systems, experiment with new ideas, and contribute to projects that solve practical problems.
+
+### Projects
+
+- **FootballIQ** — Agentic RAG system with multi-step reasoning and tool calling.
+- **Peacemaker** — Multimodal cyberbullying detection across text, images, and audio.
+- **TransferIQ** — Football player market value prediction using machine learning.
+
+### Open Source
+
+- **AgentKit** - Contributed to the AgentKit repo of Lamatic AI. 
+
+### Business
+
+Building **Project-Prince** — exploring AI agents and automation for practical business problems.
+
+### Stack
+
+`Python` `FastAPI` `LangGraph` `LangChain` `RAG` `LLMs` `Machine Learning`
 
 ---
-
-**FootballIQ** — Agentic RAG system over 16k+ EA FC player records.
-ReAct agent with multi-step reasoning and tool-calling via LangGraph + LangChain + ChromaDB + FastAPI. Deployed.
-
-**Peacemaker** — Multimodal cyberbullying detection pipeline.
-Late-fusion architecture across text (DistilBERT), image (ViT + CLIP), and audio (Whisper). Deployed on Render.
-
-**TransferIQ** — Football player market value predictor.
-CatBoost model with feature engineering on transfer market data. Streamlit frontend.
-
----
-
-Python · LangChain · LangGraph · FastAPI · ChromaDB · DistilBERT · Whisper · HuggingFace
